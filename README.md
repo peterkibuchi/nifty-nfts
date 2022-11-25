@@ -1,4 +1,4 @@
-# Safari
+# Nifty NFTs
 
 > A modern NFT Marketplace mobile app that runs on both Android and iOS platforms, powered by React Native.
 > Live demo [_here_](https://expo.dev/@peterkibuchi/ProNef?serviceType=classic&distribution=expo-go/).
